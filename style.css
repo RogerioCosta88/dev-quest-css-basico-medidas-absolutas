@@ -1,0 +1,16 @@
+.tamanho-fonte {
+    font-size: 25px;
+}
+
+.quadrado {
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.pixel {
+    background-color: #00ffff;
+    width: 1000px;
+    height: 100px;
+}
